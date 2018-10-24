@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Allow: /sitemap.htm
+Allow: /shop
+Disallow: /test
+Disallow: /private
+Disallow: /bak
+
+Sitemap: https://www.fahrrad.ginzinger.at/sitemap.xml
